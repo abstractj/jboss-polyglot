@@ -2,13 +2,13 @@
 
   <parent>
     <groupId>org.projectodd</groupId>
-    <artifactId>polyglot-modules-parent</artifactId>
+    <artifactId>polyglot-abstractj-modules-parent</artifactId>
     <version>1.3.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>polyglot-hasingleton</artifactId>
+  <artifactId>polyglot-abstractj-hasingleton</artifactId>
   <packaging>jar</packaging>
   <name>Polyglot HASingleton Module</name>
   <description />
@@ -16,7 +16,7 @@
   <dependencies>
     <dependency>
       <groupId>org.projectodd</groupId>
-      <artifactId>polyglot-core</artifactId>
+      <artifactId>polyglot-abstractj-core</artifactId>
       <version>${project.version}</version>
     </dependency>
 

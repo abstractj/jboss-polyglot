@@ -9,7 +9,7 @@
   </parent>
 
   <groupId>org.projectodd</groupId>
-  <artifactId>polyglot</artifactId>
+  <artifactId>polyglot-abstractj</artifactId>
   <version>1.3.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Polyglot</name>
